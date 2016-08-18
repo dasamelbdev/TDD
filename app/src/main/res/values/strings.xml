@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TDDExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">"ThisIsAButton"</string>
+
+</resources>
